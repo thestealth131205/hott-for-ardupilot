@@ -1,0 +1,1 @@
+HoTT Binary mode is designed to query sensor data quick. It uses "raw" sensor values only, the values are interpreted and displayed on the RC transmitter site.

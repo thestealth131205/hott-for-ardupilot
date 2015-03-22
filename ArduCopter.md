@@ -1,0 +1,1 @@
+ArduCopter is a subproject of ArduPilot. [Home page](http://code.google.com/p/arducopter/wiki/ArduCopter)
