@@ -1,1 +1,3 @@
-Code for APM Atmel versions (APM1, APM2, APM2.x)
+Hott For Crius v1.1 / HK AIOP
+
+Megapiratemg 3.1.5 R2 latest Beta Source
